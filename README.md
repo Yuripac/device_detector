@@ -152,12 +152,14 @@ Updated on 2016-07-16
 
 - Mati Sojka: https://github.com/yagooar
 - Ben Zimmer: https://github.com/benzimmer
+- Peter Gao: https://github.com/peteygao
 
 ## Contributors
 
 Thanks a lot to the following contributors:
 
-- Peter Gao: https://github.com/peteygao
+- Dennis Wu: https://github.com/dnswus
+- Mark Dodwell: https://github.com/mkdynamic
 
 ## Contributing
 
