@@ -2736,6 +2736,8 @@ Motorola:
       model: 'Droid Mini'
     - regex: '(?:MOT-|Motorola-)?XT10(?:28|3[1234])'
       model: 'Moto G'
+    - regex: '(?:MOT-|Motorola-)?G4 Plus'
+      model: 'Moto G4 Plus'
     - regex: '(?:MOT-|Motorola-)?XT10(?:49|5[23568]|60)'
       model: 'Moto X'
     - regex: '(?:MOT-|Motorola-)?XT1080'
