@@ -2192,6 +2192,10 @@ Lenovo:
   regex: '(?:LNV-)?Lenovo|IdeaTab|IdeaPad|Thinkpad|Yoga Tablet'
   device: 'smartphone'
   models:
+    - regex: 'A6020L36'
+      model: 'Lenovo Vibe K5'
+    - regex: 'A6020a46'
+      model: 'Lenovo Vibe K5 plus'
     - regex: 'Lenovo (B[0-9]+[^/;]*) Build'
       model: 'IdeaTab $1'
       device: 'tablet'
