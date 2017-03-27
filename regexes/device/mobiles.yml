@@ -2193,7 +2193,7 @@ Lenovo:
   device: 'smartphone'
   models:
     - regex: 'A6020(L36|a46)'
-      model: 'Lenovo Vibe K5'
+      model: 'Lenovo Vibe K5' 
     - regex: 'Lenovo (B[0-9]+[^/;]*) Build'
       model: 'IdeaTab $1'
       device: 'tablet'
